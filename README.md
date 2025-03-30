@@ -20,14 +20,15 @@
 
 
 ------
+
 <h3 align="left">Activity:</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cremitalab&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/cremitalab/github-readme-activity-graph)
 
 <div align="center">
   <a href="https://github.com/cremitalab">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cremitalab&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cremitalab&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cremitalab&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="cremitalab"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cremitalab&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="cremitalab"/>
   </a>
 </div>
 <p align="center">
