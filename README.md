@@ -11,7 +11,7 @@
 - 🔬 A true **science lover**.
 - 🏀 I’m a basketball player.
 - :computer: I love solving problems using **technology** and always learning new tools.
-- :nerd_face: Constantly improving my skills and exploring new areas in **Cybersecurity**, **Software Design**, and **Programming**.
+
 
 <br>
 <br>
